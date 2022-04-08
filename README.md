@@ -1,6 +1,7 @@
 Peggy Cheung
 
 Languages: Python, SQL
+
 Currently enhancing knowledge in: Data Analytics, Investments, etc.
 
 <!---
