@@ -1,4 +1,4 @@
-Peggy Cheung
+Peggy Zhang
 
 Languages: Python, SQL
 
